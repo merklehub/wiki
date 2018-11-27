@@ -1,2 +1,2 @@
 # wiki
-Team Wiki
+Team Wiki.
